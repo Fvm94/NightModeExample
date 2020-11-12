@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Modo Escuro Exemplo</string>
+    <string name="ok">ok</string>
+    <string name="choose_theme">Escolha o tema</string>
+    <string name="cancel">cancelar</string>
+    <string name="change_theme">Trocar Tema</string>
+</resources>

@@ -1,6 +1,11 @@
-<resources>
-    <string name="app_name">NightModeExample</string>
-    <string name="nightmode_on">NightMode On</string>
-    <string name="nightmode_off">NightMode Off</string>
-    <string name="nightmode_auto">NightMode Auto</string>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Night Mode Example</string>
+    <string name="nightmode_on" translatable="false">NightMode On</string>
+    <string name="nightmode_off" translatable="false">NightMode Off</string>
+    <string name="nightmode_auto" translatable="false">NightMode Auto</string>
+    <string name="change_theme">Change Theme</string>
+    <string name="saved_night_mode_key" translatable="false">NMK</string>
+    <string name="choose_theme">Choose theme</string>
+    <string name="ok" tools:ignore="ButtonCase,Typos">ok</string>
+    <string name="cancel" tools:ignore="ButtonCase">cancel</string>
 </resources>
