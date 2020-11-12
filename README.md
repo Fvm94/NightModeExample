@@ -1,7 +1,6 @@
-# NightModeExample
+# DarkThemeAndroidKotlin
+Basic implementation of dark mode using Kotlin, SharedPreferences and Material
 
-Kotlin basic example of NightMode implementation with support for older SDK's
+compatible with older SDK version
 
-
-**Android Developers**
 https://developer.android.com/guide/topics/ui/look-and-feel/darktheme
