@@ -5,4 +5,6 @@
     <string name="choose_theme">Escolha o tema</string>
     <string name="cancel">cancelar</string>
     <string name="change_theme">Trocar Tema</string>
+    <string name="light" >Claro</string>
+    <string name="dark">Escuro</string>
 </resources>

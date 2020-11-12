@@ -8,4 +8,6 @@
     <string name="choose_theme">Choose theme</string>
     <string name="ok" tools:ignore="ButtonCase,Typos">ok</string>
     <string name="cancel" tools:ignore="ButtonCase">cancel</string>
+    <string name="light" >Light</string>
+    <string name="dark">Dark</string>
 </resources>
